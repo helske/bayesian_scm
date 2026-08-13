@@ -1,4 +1,8 @@
-# More info on StanCon2026 poster "bscm: an R package for Bayesian synthetic control models for panel data causal inference"
+# bscm: an R package for Bayesian synthetic control models for panel data causal inference
+
+## Poster
+
+See bscm_poster.pdf in this repo.
 
 ## Software
 
